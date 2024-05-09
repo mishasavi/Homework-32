@@ -1,0 +1,6 @@
+.app-container {
+    width: 300px;
+    background-color: lightskyblue;
+    box-shadow: 5px 10px whitesmoke;
+    padding: 10px;
+}

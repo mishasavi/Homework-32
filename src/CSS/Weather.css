@@ -1,0 +1,10 @@
+.responseOk {
+    font-family: Cambria, serif;
+    font-size: 20px;
+}
+
+.responseError {
+    font-family: Cambria, serif;
+    color: red;
+    font-size: 20px;
+}
